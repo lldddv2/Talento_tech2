@@ -1,0 +1,10 @@
+.
+├── images
+│   ├── CAH_PM25.png
+│   ├── CA_PM25_animacion.gif
+│   ├── CDH_Metro_users.png
+│   ├── CDH_PM25.png
+│   └── CD_PM25_animacion.gif
+└── main.ipynb
+
+2 directories, 6 files
