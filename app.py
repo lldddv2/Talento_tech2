@@ -140,7 +140,7 @@ elif page_selection == "ℹ️ Acerca de":
     *   **Streamlit:** Para la construcción interactiva del dashboard.
     *   **Python:** Lenguaje de programación.
     *   **Pillow (PIL):** Librería para el procesamiento de imágenes.
-    *   **Librerías de visualización (ej: Matplotlib, Seaborn):**
+    *   **Librerías de visualización: ** Matplotlib
     """)
 
     st.subheader("Desarrolladores")
