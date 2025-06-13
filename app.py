@@ -129,7 +129,7 @@ elif page_selection == "ℹ️ Acerca de":
     st.title("ℹ️ Acerca de este Dashboard")
     st.write("Este dashboard ha sido creado para visualizar y explorar datos clave relacionados con la calidad del aire y el uso del transporte público en áreas urbanas.")
 
-    st.subheader("Fuentes de Datos (Ejemplo)")
+    st.subheader("Fuentes de Datos")
     st.write("""
     *   **Calidad del Aire (PM2.5):** Datos históricos de sensores de calidad del aire.
     *   **Uso del Metro:** Registros de afluencia de pasajeros del sistema de transporte Metro.
@@ -140,7 +140,7 @@ elif page_selection == "ℹ️ Acerca de":
     *   **Streamlit:** Para la construcción interactiva del dashboard.
     *   **Python:** Lenguaje de programación.
     *   **Pillow (PIL):** Librería para el procesamiento de imágenes.
-    *   **Librerías de visualización (ej: Matplotlib, Seaborn):** *No implementadas en este ejemplo, pero comunes para generar los PNGs.*
+    *   **Librerías de visualización (ej: Matplotlib, Seaborn):**
     """)
 
     st.subheader("Desarrolladores")
